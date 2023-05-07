@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/Camilacslopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilacslopes&show_icons=true&theme=dracula&hide=issues,contribs,stars" />
+  <img height="180em" width="328em" src="https://github-readme-stats.vercel.app/api?username=Camilacslopes&show_icons=true&theme=dracula&hide=issues,contribs,stars" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilacslopes&layout=compact&theme=dracula"/>
 </div>  
